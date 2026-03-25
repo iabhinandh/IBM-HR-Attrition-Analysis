@@ -8,7 +8,7 @@
 ## Dashboard Preview
 
 ### Page 1 — Executive Summary
-![Executive Summary](screenshots/01_Executive_summary.png)
+![Executive Summary](screenshots/01_Executive_Summary.png)
 
 ### Page 2 — Deep Dive: Attrition Drivers
 ![Attrition Drivers](screenshots/02_Attrition_drivers.png)
